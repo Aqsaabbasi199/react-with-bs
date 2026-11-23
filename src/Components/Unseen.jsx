@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero2 from "../assets/illustration.png"
+import Hero2 from "../assets/Illustration.png"
 const Unseen = () => {
   return (
     
